@@ -16,11 +16,18 @@ nav li
     margin-right: 20px;
     border-radius: 10px;
     background-color: #F2F2F2;
+    text-decoration: 
 }
 
 .position_fruits{
     display: flex;
     justify-content: space-around;
+}
+
+.fichefruit img
+{
+    width: 80px;
+    height: 55px;
 }
 
 #footer{
